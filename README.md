@@ -1,7 +1,22 @@
 ## Hi there 👋
+<h2 align="center"> Hi, I'm Chanunya Sutti (CHANXYII)</h2>
+<p align="center">AI Engineering & Data Science | School of Engineering, Bangkok University</p>
 
 <!--
 **CHANXYII/CHANXYII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 👩‍💻 About Me
+```python
+class Chanunya:
+    def __init__(self):
+        self.name = "Chanunya Sutti"
+        self.username = "CHANXYII"
+        self.role = "AI & Data Science Student"
+        self.university = "Bangkok University"
+        self.interests = ["AI", "Web Development", "APIs", "Cloud"]
+
+    def life_motto(self):
+        return "Keep learning, keep building, keep improving."
 
 Here are some ideas to get you started:
 
