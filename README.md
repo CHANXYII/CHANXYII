@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h2 align="center"> Hi, I'm Chanunya Sutti (CHANXYII)</h2>
-<p align="center">AI Engineering & Data Science | School of Engineering, Bangkok University</p>
+<h2 align="center"> Hi, I'm Chanunya Sutti</h2>
+<p align="center">Artifitial Intelligent Engineering & Data Science | School of Engineering, Bangkok University</p>
 
 <!--
 **CHANXYII/CHANXYII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
