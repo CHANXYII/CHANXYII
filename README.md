@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Chanunya Sutti</h2>
-<p align="center">Artifitial Intelligent Engineering & Data Science | School of Engineering, Bangkok University</p>
+<p align="center">Artifitial Intelligent Engineering & Data Science | School of Engineering | Bangkok University</p>
 
 ---
 
