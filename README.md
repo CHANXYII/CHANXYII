@@ -83,7 +83,7 @@ class CHANXYII:
     <img alt="LinkedIn" 
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank" rel="noopener noreferrer">
+  <a href="https://chanunyasutt.wixsite.com/portfolio">
     <img alt="Portfolio" 
          src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
