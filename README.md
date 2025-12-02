@@ -10,7 +10,7 @@ class CHANXYII:
         self.name = "Chanunya Sutti"
         self.education = {
             "university": "Bangkok University",
-            "program": "Artificial Intelligent Engineering & Data Science",
+            "faculty": "Artificial Intelligent Engineering & Data Science",
             "year": 3,
             "scholarship": "Petch Nai Chaiyapruek (100%)"
         }
@@ -70,10 +70,12 @@ class CHANXYII:
 
 ## GitHub Stats ִ ࣪𖤐
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANXYII&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANXYII&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHANXYII&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANXYII&theme=transparent&hide_border=true" height="150" />
 </p>
 
+
+ทำไมถึงไม่แสดงผล
 ---
 
 ## Contact Me ⸝⸝ ⟡
