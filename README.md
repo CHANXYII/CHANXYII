@@ -74,8 +74,6 @@ class CHANXYII:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANXYII&theme=transparent&hide_border=true" height="150" />
 </p>
 
-
-ทำไมถึงไม่แสดงผล
 ---
 
 ## Contact Me ⸝⸝ ⟡
