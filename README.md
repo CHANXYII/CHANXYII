@@ -1,37 +1,6 @@
 <h2 align="center"> Hi, I'm Chanunya Sutti ♡ ༘⋆</h2>
 <p align="center">Artifitial Intelligent Engineering & Data Science | School of Engineering | Bangkok University</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanunya-sutt">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://chanunyasutt.wixsite.com/portfolio">
-    <img alt="Portfolio"
-         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
-  <a href="mailto:chanunya.sutt@gmail.com">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-##
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanunya-sutt">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://chanunyasutt.wixsite.com/portfolio">
-    <img alt="Portfolio" 
-         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
-  <a href="mailto:chanunya.sutt@gmail.com">
-    <img alt="Email" 
-         src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
@@ -114,3 +83,19 @@ class CHANXYII:
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chanunya-sutt">
+    <img alt="LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://chanunyasutt.wixsite.com/portfolio">
+    <img alt="Portfolio" 
+         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+  <a href="mailto:chanunya.sutt@gmail.com">
+    <img alt="Email" 
+         src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
