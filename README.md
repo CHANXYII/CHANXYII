@@ -20,17 +20,13 @@ class CHANXYII:
 
     def personality(self):
         self.mbti = "ESTJ"
-        self.strengths = [
-            "Organizer & Manager",
-            "Reliable & commits to deadlines"
-        ]
         self.working_style = {
             "focus": "Efficiency and Measurable Results",
-            "team_role": "Data Analysis & UX/UI Designer",
+            "team_role": "Data Engineer & UX/UI Designer",
         }
         self.languages = {
             "Thai": "Native",
-            "English": "Limited working",
+            "English": "Professional working",
             "Korean": "Elementary"
         }
 ```
