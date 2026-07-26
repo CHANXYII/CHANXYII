@@ -22,7 +22,7 @@ class CHANXYII:
         self.mbti = "ESTJ"
         self.working_style = {
             "focus": "Efficiency and Measurable Results",
-            "team_role": "Data Engineer & UX/UI Designer",
+            "team_role": "AI/ML Engineer, Data Engineer, UX/UI Designer",
         }
         self.languages = {
             "Thai": "Native",
@@ -35,39 +35,19 @@ class CHANXYII:
 
 ## Tech Stack .ᐟ
 
-<h4 align="center">AI & Machine Learning</h4>
-<p align="center">
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
 <h4 align="center">Development</h4>
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-<h4 align="center">Database</h4>
-<p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi" />
 </p>
 
 <h4 align="center">Cloud & DevOps</h4>
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,git,gcp" />
 </p>
 
 <h4 align="center">Design Tools</h4>
 <p align="center">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
 ---
@@ -79,18 +59,29 @@ class CHANXYII:
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanunya-sutt">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://chanunyasutt.wixsite.com/portfolio">
-    <img alt="Portfolio" 
-         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
-  <a href="mailto:chanunya.sutt@gmail.com">
-    <img alt="Email" 
-         src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## ⟡ Let's Connect
 
+<table align="center" cellspacing="8" cellpadding="0" border="0">
+  <tr>
+    <td style="background-color:#0A66C2; border-radius:8px; padding:10px 20px;">
+      <a href="https://www.linkedin.com/in/chanunya-sutt" style="text-decoration:none; color:white; font-weight:bold;">
+        🔗 LinkedIn
+      </a>
+    </td>
+    <td style="background-color:#14b8a6; border-radius:8px; padding:10px 20px;">
+      <a href="https://chanunyasutt.wixsite.com/portfolio" style="text-decoration:none; color:white; font-weight:bold;">
+        🌐 Portfolio
+      </a>
+    </td>
+    <td style="background-color:#E4405F; border-radius:8px; padding:10px 20px;">
+      <a href="https://www.instagram.com/chanxyii" style="text-decoration:none; color:white; font-weight:bold;">
+        📷 Instagram
+      </a>
+    </td>
+    <td style="background-color:#EA4335; border-radius:8px; padding:10px 20px;">
+      <a href="mailto:chanunya.sutt@gmail.com" style="text-decoration:none; color:white; font-weight:bold;">
+        ✉️ Email
+      </a>
+    </td>
+  </tr>
+</table>
